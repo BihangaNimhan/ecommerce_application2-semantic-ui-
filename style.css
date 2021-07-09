@@ -1,0 +1,98 @@
+@font-face {
+    font-family: t;
+    src: url("fonts/BeautifulPeoplePersonalUse-dE0g.ttf");
+}
+
+@font-face {
+    font-family: nt;
+    src: url("fonts/KgTraditionalFractions2-Pl5m.ttf");
+}
+
+@font-face {
+    font-family: ht;
+    src: url("fonts/RoughbackDemo-8M6lZ.ttf");
+}
+
+@font-face {
+    font-family: bt;
+    src: url("fonts/CoventyshDemo-Eayez.otf");
+}
+
+.bs {
+    width: 100px;
+    height: 100px;
+}
+
+.bg {
+    background-color: rgb(241, 241, 241);
+}
+
+.bg2 {
+    background-color: azure;
+}
+
+.t {
+    font-family: t;
+}
+
+.nt {
+    font-family: nt;
+}
+
+.ht {
+    font-family: ht;
+    font-size: 60px;
+}
+
+.bt {
+    font-family: bt;
+    font-size: 20px;
+}
+
+.v {
+    border-left: 2px solid rgb(121, 119, 119);
+    height: 50px;
+}
+
+.d1 {
+    height: 110px;
+    width: 100%;
+}
+
+.prt {
+    font-family: bt;
+}
+
+.i1 {
+    width: 100%;
+    height: auto;
+}
+
+.prt2 {
+    font-family: bt;
+    font-size: 20px;
+}
+
+.dcen {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.i2 {
+    width: auto;
+    height: 70px;
+}
+
+.ct {
+    font-family: cursive;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+    .bs {
+        width: 50px;
+        height: 50px;
+    }
+}
